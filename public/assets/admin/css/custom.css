@@ -1,0 +1,29 @@
+.dd-container{
+	width:85% !important;
+	}
+.dd-select{
+	background:#F2F2F2 !important;
+	border-radius:0 !important;
+	border:solid 1px #E4E4E4 !important;
+	width:100% !important;
+	}
+.dd-selected-text{
+	margin-bottom:0px !important;
+	line-height:normal !important;
+	color: #3B3B3B !important;
+    font-size: 13px !important;
+	font-weight:normal !important;
+	}
+.dd-option-text{
+	margin-bottom:0px !important;
+	line-height:normal !important;
+	color: #3B3B3B !important;
+    font-size: 13px !important;
+	font-weight:normal !important;
+	}	
+.dd-selected{
+	padding:6px !important;
+	}
+.dd-options{
+	width:100% !important;
+	}				

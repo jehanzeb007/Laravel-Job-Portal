@@ -1,0 +1,26 @@
+.title
+{
+    text-align: center;
+}
+.banner
+{
+    width: 100%;
+    padding: 20px 0px;
+}
+.banner h4, .banner p
+{
+    display: inline-block;
+}
+.block-sec
+{
+    display: block;
+}
+.other-sec
+{
+    padding-top: 40px;
+}
+.middle-sec
+{
+    display: block;
+    padding-top: 40px;
+}
